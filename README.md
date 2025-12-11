@@ -18,8 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jefersonae&show_icons=true&theme=gotham&locale=en" alt="jefersonae" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonae&theme=gotham" alt="jefersonae" /><img align="right" width= 320px 
-
-                                                                                                                     
-<img src="https://pa1.narvii.com/6355/5c029db3272b47f0c80824b23de1dcd1eac8bb43_hq.gif" alt="Hashirama Senju"/>
-
