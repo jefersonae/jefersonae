@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jeferson-andrade-a42680181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letícia-matos-831a0322a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dev-jeferson-andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letícia-matos-831a0322a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jeferson_s_andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeferson_s_andrade" height="30" width="40" /></a>
 </p>
 
