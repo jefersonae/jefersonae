@@ -1,16 +1,42 @@
-<h1 align="center">Hi 👋, I'm Jeferson</h1>
+# Olá, eu sou Jeferson de Souza Andrade! 👋
 
+> 🎓 *Entusiasta de Inteligência Artificial e Deep Learning | Desenvolvedor Web*
 
-- 📫 How to reach me **jefersonae@hotmail.com.br**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&color=28B87F&center=true&width=400&height=200&lines=WELCOME+TO+MY+PROFILE!;STUDYING...)](https://git.io/typing-svg)
+Seja bem-vindo ao meu perfil! Sou um profissional em constante evolução, focado em resolver problemas complexos através da tecnologia. Atualmente, dedico-me a aprofundar conhecimentos em IA e a criar soluções web modernas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dev-jeferson-andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="letícia-matos-831a0322a" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jeferson_s_andrade/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeferson_s_andrade" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-<hr>
+### 🚀 Sobre Mim
+Com base na minha jornada profissional:
 
+* 🔭 **Foco Atual:** Estou a especializar-me em **Deep Learning** e **Python** para Data Science.
+* 💼 **Objetivo:** Busco oportunidades em empresas dinâmicas para aplicar criatividade e inovação tecnológica.
+* 🌱 **Aprendizagem:** Sempre em busca de novas aptidões no mercado de tecnologia.
+* 🧠 **Interesses:** Inteligência Artificial, Automação e Desenvolvimento Full Stack.
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+#### 🤖 Inteligência Artificial & Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+#### 💻 Desenvolvimento Web & Ferramentas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Vamos Conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jeferson-andrade/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jeferson.souza.andrade@outlook.com)
+
+---
+⭐️ *Obrigado pela visita!*
