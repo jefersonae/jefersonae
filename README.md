@@ -18,6 +18,8 @@ Com base na minha jornada profissional:
 
 ### 🛠️ Arsenal Tecnológico
 
+<div align="center">
+
 #### 🤖 Inteligência Artificial & Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -31,12 +33,28 @@ Com base na minha jornada profissional:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonae&theme=dracula" alt="GitHub Streak" />
+</div>
+
 ---
 
 ### 📫 Vamos Conectar?
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-jeferson-andrade/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jeferson.souza.andrade@outlook.com)
 
+</div>
+
 ---
+<div align="center">
 ⭐️ *Obrigado pela visita!*
+</div>
