@@ -1,6 +1,6 @@
 # Olá, eu sou Jeferson de Souza Andrade! 👋
 
-> 🎓 *Entusiasta de Inteligência Artificial e Deep Learning | Desenvolvedor Web*
+> 🎓 *Desenvolvedor Web / Entusiasta de Inteligência Artificial e Deep Learning*
 
 Seja bem-vindo ao meu perfil! Sou um profissional em constante evolução, focado em resolver problemas complexos através da tecnologia. Atualmente, dedico-me a aprofundar conhecimentos em IA e a criar soluções web modernas.
 
