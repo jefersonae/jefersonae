@@ -48,5 +48,5 @@ Com base na minha jornada profissional:
 
 ---
 <div align="center">
-⭐️ *Obrigado pela visita!*
+⭐️ Obrigado pela visita!
 </div>
