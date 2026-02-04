@@ -33,13 +33,6 @@ Com base na minha jornada profissional:
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefersonae&theme=dracula" alt="GitHub Streak" />
-</div>
-
----
 
 ### 📫 Vamos Conectar?
 
