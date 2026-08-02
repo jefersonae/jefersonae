@@ -1,5 +1,4 @@
 # Olá, eu sou Jeferson de Souza Andrade! 👋
-
 > 🎓 *Desenvolvedor Web / Entusiasta de Inteligência Artificial e Deep Learning*
 
 Seja bem-vindo ao meu perfil! Sou um profissional em constante evolução, focado em resolver problemas complexos através da tecnologia. Atualmente, dedico-me a aprofundar conhecimentos em IA e a criar soluções web modernas.
@@ -7,12 +6,12 @@ Seja bem-vindo ao meu perfil! Sou um profissional em constante evolução, focad
 ---
 
 ### 🚀 Sobre Mim
-Com base na minha jornada profissional:
 
 * 🔭 **Foco Atual:** Aprofundando estudos em **Deep Learning** aplicado a NLP (Processamento de Linguagem Natural) com **Python**.
 * 💼 **Objetivo:** Busco oportunidades como Desenvolvedor Full Stack ou Cientista de Dados júnior, em projetos que unam automação e inteligência artificial.
 * 🌱 **Aprendizagem:** Sempre em busca de novas aptidões no mercado de tecnologia.
 * 🧠 **Interesses:** Inteligência Artificial, Automação e Desenvolvimento Full Stack.
+
 ---
 
 ### 🛠️ Arsenal Tecnológico
@@ -32,6 +31,13 @@ Com base na minha jornada profissional:
 
 ---
 
+### 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=jefersonae&rank_icon=github&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=blue_navy" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=jefersonae&theme=blue_navy&custom_title=Linguagens&layout=compact" height="150" />
+</div>
+---
 
 ### 📫 Vamos Conectar?
 
@@ -39,6 +45,11 @@ Com base na minha jornada profissional:
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jeferson.souza.andrade@outlook.com)
 
 ---
+
 <div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jefersonae&color=blue)
+
 ⭐️ Obrigado pela visita!
+
 </div>
