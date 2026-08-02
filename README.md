@@ -9,11 +9,10 @@ Seja bem-vindo ao meu perfil! Sou um profissional em constante evolução, focad
 ### 🚀 Sobre Mim
 Com base na minha jornada profissional:
 
-* 🔭 **Foco Atual:** Estou a especializar-me em **Deep Learning** e **Python** para Data Science.
-* 💼 **Objetivo:** Busco oportunidades em empresas dinâmicas para aplicar criatividade e inovação tecnológica.
+* 🔭 **Foco Atual:** Aprofundando estudos em **Deep Learning** aplicado a NLP (Processamento de Linguagem Natural) com **Python**.
+* 💼 **Objetivo:** Busco oportunidades como Desenvolvedor Full Stack ou Cientista de Dados júnior, em projetos que unam automação e inteligência artificial.
 * 🌱 **Aprendizagem:** Sempre em busca de novas aptidões no mercado de tecnologia.
 * 🧠 **Interesses:** Inteligência Artificial, Automação e Desenvolvimento Full Stack.
-
 ---
 
 ### 🛠️ Arsenal Tecnológico
